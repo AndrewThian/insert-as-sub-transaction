@@ -1,2 +1,3 @@
 .env
 transactions.csv
+node_modules
